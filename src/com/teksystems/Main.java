@@ -14,6 +14,9 @@ public class Main
         m.problem6();
         m.problem7();
         m.problem8();
+
+        OperatorsAndNumbers o = new OperatorsAndNumbers();
+        o.run();
     }
 
     // Write a program that declares 2 integer variables, assigns an integer to each, and adds them together. Assign the sum to a variable. Print out the result.
