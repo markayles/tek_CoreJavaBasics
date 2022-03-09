@@ -17,6 +17,9 @@ public class Main
 
         OperatorsAndNumbers o = new OperatorsAndNumbers();
         o.run();
+
+        Arrays a = new Arrays();
+        a.run();
     }
 
     // Write a program that declares 2 integer variables, assigns an integer to each, and adds them together. Assign the sum to a variable. Print out the result.
